@@ -1,4 +1,0 @@
-ls world
-ls
-clear
-$ ls
